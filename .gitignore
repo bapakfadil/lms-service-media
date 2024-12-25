@@ -1,0 +1,9 @@
+# Express.js (server-side)
+.env
+node_modules/*
+logs/
+.DS_Store
+Thumbs.db
+npm-debug.log
+.vscode/
+.idea/
